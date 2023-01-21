@@ -14,7 +14,7 @@ The project is a web-application that utilizes the Apache Tomcat server, a MySQL
 ### :hammer_and_wrench: Languages and Tools :
 Tech stack:
 
-1. BootStrap 
+1. BootStrap 5 
 2. Java Servlets
 3. Eclipse IDE 
 4. Maven WebApp
